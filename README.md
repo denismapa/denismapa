@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denismapa and I am currently an Information Security Compliance Analyst
 - Previously a Network Engineer for a large Enterprise
-- 👀 I’m interested in Ansible & Learning how to utilize Programming / Coding for my career.
+- 👀 I’m learning Python
 - 🌱 I’m currently learning going through CS50 Python learning week by week
 - 📫 How to reach me 
 
