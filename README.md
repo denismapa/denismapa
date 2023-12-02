@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning going through CS50 Python learning week by week
 - 📫 How to reach me 
 
-- Twitter  @nerdcastles
+- Twitter/X:  @
 
 
 <!---
