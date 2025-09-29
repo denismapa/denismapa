@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning going through CS50 Python learning week by week
 - 📫 How to reach me 
 
-- Twitter/X:  @
-
 
 <!---
 denismapa/denismapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
