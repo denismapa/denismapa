@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @denismapa and I am currently an Information Security Compliance Engineer
+- 👋 Hi, I’m @denismapa and I am currently an Senior Information Security Compliance Engineer
 - Certified PCI Internal Security Assessor
 - Previously a Network Engineer for a large Enterprise
-- 👀 I’m learning Python
-- 🌱 I’m currently learning going through CS50 Python learning week by week
-- 📫 How to reach me 
 
 
 <!---
