@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @denismapa
 
-**Senior Information Security Compliance Engineer** at a "Warehouse Retailer" · **PCI ISA · PCIP · CompTIA Security+**
+**Senior Information Security Compliance Engineer** at a "Warehouse Retailer"
 
 I started out as a network engineer for a large enterprise and moved into security compliance, so I approach PCI DSS from the wire up. Today I scope cardholder data environments, validate network security controls and segmentation, and build automation that takes the pain out of evidence collection. At home, I keep my networking hands-on with a segmented UniFi and Proxmox homelab.
 
