@@ -21,7 +21,8 @@ I work where security, infrastructure and compliance meet. My job is to turn PCI
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square)
 ![PingFederate](https://img.shields.io/badge/PingFederate-B3282D?style=flat-square)
 ![PCI DSS](https://img.shields.io/badge/PCI%20DSS-ISA-1F2937?style=flat-square)
- 
+![PCI DSS PCIP](https://img.shields.io/badge/PCI%20DSS-PCIP-1F2937?style=flat-square)
+
 #### 🏠 Off the clock
  
 - Running a homelab on Unraid, Proxmox with UniFi networking and Pi-hole
