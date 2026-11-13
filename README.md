@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm @denismapa
  
-**Senior Information Security Compliance Engineer** at a "Warehouse Retailer" · **Certified PCI Internal Security Assessor (ISA)**
+**Senior Information Security Compliance Engineer** at a "Warehouse Retailer"
+**Certified PCI Internal Security Assessor (ISA)**
  
 I work where security, infrastructure and compliance meet. My job is to turn PCI DSS requirements into controls, evidence and automation that hold up in an assessment. Before compliance, I was a network engineer for a large enterprise, so I think about controls from the wire up.
  
